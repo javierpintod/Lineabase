@@ -1,6 +1,6 @@
 # design-software-docs
 
-Repositorio de documentación del proyecto **Horarios SENA**.
+Repositorio de documentación del proyecto **ERP VENTAS  ADSO**.
 
 Este repositorio es la fuente de verdad documental del proyecto. Todo cambio debe pasar por rama, Pull Request y revisión; no se trabaja directamente sobre `dev`, `qa` ni `main`.
 
